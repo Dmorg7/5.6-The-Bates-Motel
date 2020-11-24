@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{47EE348B-6332-4828-B07A-AC1D3E7DB0B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="5.6-The-Bates-Motel/Program.cs">
+    <Files>
+      <File FileName="5.6-The-Bates-Motel/Program.cs" Line="104" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.5.6-The-Bates-Motel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/benjamindanielmorgan/Projects/5.6-The-Bates-Motel/5.6-The-Bates-Motel/bin/Debug/netcoreapp2.0/5.6-The-Bates-Motel.deps.json
+/Users/benjamindanielmorgan/Projects/5.6-The-Bates-Motel/5.6-The-Bates-Motel/bin/Debug/netcoreapp2.0/5.6-The-Bates-Motel.runtimeconfig.json
+/Users/benjamindanielmorgan/Projects/5.6-The-Bates-Motel/5.6-The-Bates-Motel/bin/Debug/netcoreapp2.0/5.6-The-Bates-Motel.runtimeconfig.dev.json
+/Users/benjamindanielmorgan/Projects/5.6-The-Bates-Motel/5.6-The-Bates-Motel/bin/Debug/netcoreapp2.0/5.6-The-Bates-Motel.dll
+/Users/benjamindanielmorgan/Projects/5.6-The-Bates-Motel/5.6-The-Bates-Motel/bin/Debug/netcoreapp2.0/5.6-The-Bates-Motel.pdb
+/Users/benjamindanielmorgan/Projects/5.6-The-Bates-Motel/5.6-The-Bates-Motel/obj/Debug/netcoreapp2.0/5.6-The-Bates-Motel.csprojResolveAssemblyReference.cache
+/Users/benjamindanielmorgan/Projects/5.6-The-Bates-Motel/5.6-The-Bates-Motel/obj/Debug/netcoreapp2.0/5.6-The-Bates-Motel.csproj.CoreCompileInputs.cache
+/Users/benjamindanielmorgan/Projects/5.6-The-Bates-Motel/5.6-The-Bates-Motel/obj/Debug/netcoreapp2.0/5.6-The-Bates-Motel.AssemblyInfoInputs.cache
+/Users/benjamindanielmorgan/Projects/5.6-The-Bates-Motel/5.6-The-Bates-Motel/obj/Debug/netcoreapp2.0/5.6-The-Bates-Motel.AssemblyInfo.cs
+/Users/benjamindanielmorgan/Projects/5.6-The-Bates-Motel/5.6-The-Bates-Motel/obj/Debug/netcoreapp2.0/5.6-The-Bates-Motel.dll
+/Users/benjamindanielmorgan/Projects/5.6-The-Bates-Motel/5.6-The-Bates-Motel/obj/Debug/netcoreapp2.0/5.6-The-Bates-Motel.pdb
